@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile!
+### Hey there! I'm Max!
 
 <!--
 **Maxime-SA/Maxime-SA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Max! I'm a backend software developer who loves contributing to vibrant teams!
+I'm a backend software developer who loves contributing to vibrant teams!
 
 I recently built Otter (otter-framework.dev) with a remote team of four spread across North America.
 Otter is an open-source cloud native framework to easily integrate peer-to-peer communication within web applications.
