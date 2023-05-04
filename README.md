@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm Max, a backend software developer who loves contributing to vibrant teams!
+I'm Max, a software developer who loves contributing to vibrant teams!
 
 I recently built Otter (otter-framework.dev) with a remote team of four spread across North America.
 Otter is an open-source, cloud native framework to easily integrate peer-to-peer communication within web applications.
