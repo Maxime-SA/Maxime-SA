@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm Max, an Infrastructure Engineer at nDreams Studio Orbital who loves contributing to vibrant teams!
+I'm Max, an Infrastructure Engineer who loves contributing to vibrant teams!
 
 I recently built Otter (https://otter-framework.dev) with a remote team of four spread across North America.
 Otter is an open-source, cloud native framework that allows developers to easily integrate peer-to-peer video communication within their own web application.
